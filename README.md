@@ -2,7 +2,7 @@
 
 This is my personal portfolio website where I showcase my work.
 ## Website Link
-[Portfolio Website](https://sillyayush.github.io/PORT-FOLIO/)
+[Portfolio Website](https://projectportfolio2.netlify.app)
 ## Technologies Used
 - HTML
 - CSS
